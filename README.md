@@ -1,5 +1,9 @@
 # copy-toast 1.2.0 — 답변의 명령을 버튼 하나로 복사하고, 경로는 폴더까지 여는 Claude Code mod
+
+<img width="335" height="101" alt="예시 이미지2" src="https://github.com/user-attachments/assets/b2404191-d2b2-4214-850b-cefdef3d1799" />
+<img width="347" height="359" alt="예시 이미지1" src="https://github.com/user-attachments/assets/7014ad70-2e42-44bc-8afa-90371ecaaabe" />
 <img width="535" height="275" alt="스크린샷 2026-11-06 140106" src="https://github.com/user-attachments/assets/a39b1855-86bd-4415-b437-5cf8e2506cf1" />
+
 ## 1. 내 기계에서 할 것
 
 가장 쉬운 길은 **Claude 에게 맡기는 것**입니다. 이 파일이 있는 폴더에서 Claude Code 를 열고 이렇게 칩니다.
