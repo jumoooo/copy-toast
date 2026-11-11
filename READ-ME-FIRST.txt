@@ -1,0 +1,11 @@
+﻿copy-toast 1.2.0
+
+가장 쉬운 길  이 폴더에서 Claude Code 를 열고 이렇게 칩니다:
+                README.md 읽고 그대로 셋업해줘
+
+직접 하려면
+  Windows            install-windows.cmd 를 두 번 누르세요.
+  Mac · Linux · WSL  터미널에서:  sh install-mac-linux.sh
+
+설치가 끝나면 Claude Code 를 새로 열고:  copy-toast 처음 설정 해 줘
+자세한 설명은 README.md 에 있습니다.

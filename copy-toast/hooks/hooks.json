@@ -1,0 +1,4 @@
+{
+  "description": "copy-toast: numbers the copyable blocks in each answer and copies one to the clipboard from the Copy buttons above the prompt",
+  "modules": ["./register.ts"]
+}

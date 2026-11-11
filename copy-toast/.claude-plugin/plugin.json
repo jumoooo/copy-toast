@@ -1,0 +1,31 @@
+{
+  "name": "copy-toast",
+  "version": "1.2.0",
+  "description": "Numbers the copyable code blocks and commands in Claude's answer and stacks a Copy button for each above the prompt; press one to put it on the clipboard. A path that exists on disk also gets an open-folder button.",
+  "author": {
+    "name": "mocha"
+  },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language",
+      "description": "Language of the on-screen text: en draws Copy, Copied and ▸ copy N; ko draws the Korean labels.",
+      "default": "en",
+      "options": [
+        "en",
+        "ko"
+      ]
+    },
+    "colors": {
+      "type": "string",
+      "title": "Colors",
+      "description": "theme uses your Claude Code theme's color keys; palette uses the fixed gold-to-rose hex palette.",
+      "default": "theme",
+      "options": [
+        "theme",
+        "palette"
+      ]
+    }
+  }
+}
